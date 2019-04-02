@@ -51,8 +51,6 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "~swiper/dist/css/swiper.css";
-
   section {
     height: 100%;
   }
